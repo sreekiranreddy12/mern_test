@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.js": "/sreekiranreddy12/mern_test.git/static/js/main.5c025dcc.js",
-    "index.html": "/sreekiranreddy12/mern_test.git/index.html",
-    "main.5c025dcc.js.map": "/sreekiranreddy12/mern_test.git/static/js/main.5c025dcc.js.map"
+    "main.js": "/mern_test/static/js/main.5c025dcc.js",
+    "index.html": "/mern_test/index.html",
+    "main.5c025dcc.js.map": "/mern_test/static/js/main.5c025dcc.js.map"
   },
   "entrypoints": [
     "static/js/main.5c025dcc.js"
